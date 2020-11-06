@@ -12,3 +12,12 @@
     width: 100% !important;
     max-width: 90% !important;
 }
+
+@media print {
+
+    html,
+    body {
+        display: none;
+        /* hide whole page */
+    }
+}

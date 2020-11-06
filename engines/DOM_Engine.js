@@ -119,6 +119,7 @@ const tmaQuestionElement = (info) => {
 }
 
 const tmaLinksToDom = () => {
+    $(".table-responsive").hide();
     getTmaLinks().then((tma) => {
         tma.map((session) => {
             const info = session.replace(/_/g, " ").toUpperCase();
