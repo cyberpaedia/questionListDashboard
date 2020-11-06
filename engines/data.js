@@ -27,7 +27,7 @@ const getTmaLinks = async () => {
 };
 
 const getListedCourses = async () => {
-  return await allCourses;
+  return await allCourses[getRoute().split("/")[1]].sort();
 }
 
 const getTmaQuestions = async () => {
