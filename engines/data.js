@@ -27,7 +27,11 @@ const getTmaLinks = async () => {
 };
 
 const getListedCourses = async () => {
-  return await allCourses[getRoute().split("/")[1]].sort();
+  const availableCourses = [];
+  allCourses[getRoute().split("/")[1]].sort().map(course => {
+    if (!availableCourses.includes(course)) availableCourses.push(course);
+  });
+  return availableCourses;
 }
 
 const getTmaQuestions = async () => {
