@@ -28,7 +28,11 @@ const allCourses = {
     "CIT215", "CIT236", "CHM192", "CHM101", "MAC316",
     "MAC314", "MAC312", "MAC333", "MAC322", "MAC334", 
     "MAC332", "FMS304", "ENT302", "ENT304", "ENT306", 
-    "ENT308", "ENT310", "BUS322"],
+    "ENT308", "ENT310", "BUS322", "EDU723", "CIT104", 
+    "CIT143", "CIT236", "CIT237", "CIT246", "CIT292", 
+    "CIT303", "CIT309", "CIT322", "CIT333", "CIT342", 
+    "CIT351", "CIT371", "CIT381", "CIT463", "CIT392", 
+    "CIT467", "CLL307", "DAM205", "DAM207"],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
