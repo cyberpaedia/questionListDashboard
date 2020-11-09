@@ -27,7 +27,8 @@ const allCourses = {
     "CHM426", "CIT211", "CIT208", "CIT212", "CIT213", 
     "CIT215", "CIT236", "CHM192", "CHM101", "MAC316",
     "MAC314", "MAC312", "MAC333", "MAC322", "MAC334", 
-    "MAC332"],
+    "MAC332", "FMS304", "ENT302", "ENT304", "ENT306", 
+    "ENT308", "ENT310", "BUS322"],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
