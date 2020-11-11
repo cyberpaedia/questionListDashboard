@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- todo: random courses from domEnging -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -18,9 +19,6 @@
   
   <!-- Companion CSS -->
   <link rel="stylesheet" href="../assets/css/app.css">
-  <script>
-    window.location.replace("https://iammastercraft.github.io/questionList/");
-  </script>
 </head>
 
 <body>
@@ -29,12 +27,12 @@
       <div class="navbar-bg"></div>
       <nav class="navbar navbar-expand-lg main-navbar" oncopy="return false" onpaste="return false" oncut="return false"
       onmousedown="return false" onselectstart="return false">
-        <form class="form-inline mr-auto hide-stuff">
+        <form class="form-inline mr-auto">
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg"><i class="fas fa-bars"></i></a></li>
             <li><a href="#" data-toggle="search" class="nav-link nav-link-lg d-sm-none"><i class="fas fa-search"></i></a></li>
           </ul>
-          <div class="search-element">
+          <div class="search-element hide-stuff">
             <input class="form-control" type="search" placeholder="Search" aria-label="Search" data-width="250">
             <button class="btn" type="submit"><i class="fas fa-search"></i></button>
             <div class="search-backdrop"></div>
@@ -85,21 +83,9 @@
                 <a href="./" class="nav-link"><i class="fas fa-fire"></i><span>Home</span></a>
               </li>
               <li class="nav-item">
-                <a href="#tma-request">
+                <a onclick="alert(`e no dey ...`)">
                   <i class="fas fa-fire"></i>
                   <span>Request For TMA</span>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="#pq-request">
-                  <i class="fas fa-fire"></i>
-                  <span>Request For PQ</span>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="#feedback">
-                  <i class="fas fa-fire"></i>
-                  <span>Feedback/Suggestions</span>
                 </a>
               </li>
               <li class="nav-item">
