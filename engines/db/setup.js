@@ -36,7 +36,12 @@ const allCourses = {
     "PHY192", "ESM407", "ESM431", "CRD124", "ECO122", 
     "ENT102", "MTH106", "MKT108", "PAD122", "BUS106", 
     "CIT102", "CSS134", "POL123", "POL126", "POL124", 
-    "CSS112", "ACC102", "MTH282"],
+    "CSS112", "ACC102", "MTH282", "CRD124", "MAC232", 
+    "MAC214", "MAC212", "CRS101", "CRS111", "CRS131", 
+    "CRS141", "CRS173", "POL337", "POL301", "POL315", 
+    "POL311", "POL341", "POL317", "EDA811", "EDA821", 
+    "EDA825", "EDU821", "EDU823", "BIO201", "STT206", 
+    "ECO231", "ENT101"],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
