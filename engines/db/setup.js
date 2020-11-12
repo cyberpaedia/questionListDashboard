@@ -66,7 +66,10 @@ const allCourses = {
     "CHM415", "CHM424", "CHM426", "CIT211", "CIT208", 
     "CIT212", "CIT213", "CIT215", "CIT236", "CHM101", 
     "CIT208", "CIT212", "CIT246", "CIT292", "MTH282", 
-    "STT211"],
+    "STT211", "ESM112", "ESM204", "ESM206", "ESM236", 
+    "BIO101", "BIO191", "CHM103", "MTH101", "PHY101", 
+    "STT102", "CHM102", "MTH102", "BIO102", "BIO192", 
+    "MTH105", "POL111"],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
