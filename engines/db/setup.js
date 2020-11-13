@@ -75,7 +75,7 @@ const allCourses = {
     "ENT202", "PAD204", "PAD202", "ECE221", "ECE223", 
     "ECE225", "ECE227", "ECE231", "ENG121", "ACC203", 
     "BUS207", "STT205", "ACC204", "ENT204", "MKT206", 
-    "ESM212", "ESM221", "ESM234", "ESM238"],
+    "ESM212", "ESM221", "ESM234", "ESM238", "CIT344"],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
