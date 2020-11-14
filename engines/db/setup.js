@@ -86,7 +86,7 @@ const allCourses = {
 "ECO324", "ECO342", "ECO332", "CSS212", "POL343", 
 "POL322", "POL318", "POL316", "POL312", "CSS242", 
 "CSS244", "CSS246", "INR112", "MAC116", "MAC132", 
-"MAC134", "MAC142", "EDU214", "EDU212"],
+"MAC134", "MAC142", "EDU214", "EDU212", "PED236"],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
