@@ -88,7 +88,9 @@ const allCourses = {
 "CSS244", "CSS246", "INR112", "MAC116", "MAC132", 
 "MAC134", "MAC142", "EDU214", "EDU212", "PED236", 
 "MAC343", "MAC341", "MAC331", "MAC323", "MAC313", 
-"MAC311"],
+"MAC311", "EDU250", "CSS441", "CSS411", "CSS443", 
+"PCR375", "EDU332", "EDU314", "PED234", "PED322", 
+"PED271", "ECE413"],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
