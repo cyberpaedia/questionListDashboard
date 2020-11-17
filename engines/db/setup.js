@@ -105,7 +105,13 @@ const allCourses = {
         "PAD405", "BIO308", "EMT300", "ESM326", "ESM342",
         "ESM346", "SLM305", "EMT301", "EMT311", "ESM341",
         "MTH241", "MAC411", "MAC413", "MAC421", "MAC425",
-        "MAC427", "MAC441", "PCR114", "CIT474", "DAM461"
+        "MAC427", "MAC441", "PCR114", "CIT474", "DAM461",
+        "PHS801", "PHS803", "PHS805", "PHS807", "PHS809",
+        "PHS811", "BUS330", "PAD308", "ECO431", "PAD326",
+        "PAD302", "PAD312", "FMS304", "PAD306", "PCR415",
+        "POL411", "POL431", "POL441", "BIO304", "PHS813",
+        "PHS815", "PHS817", "PHS819", "BUS330", "BIO310",
+        "BIO314"
     ],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
