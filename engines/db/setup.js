@@ -105,7 +105,7 @@ const allCourses = {
         "PAD405", "BIO308", "EMT300", "ESM326", "ESM342",
         "ESM346", "SLM305", "EMT301", "EMT311", "ESM341",
         "MTH241", "MAC411", "MAC413", "MAC421", "MAC425",
-        "MAC427", "MAC441", "PCR114"
+        "MAC427", "MAC441", "PCR114", "CIT474"
     ],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
