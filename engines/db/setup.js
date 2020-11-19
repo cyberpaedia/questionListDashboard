@@ -117,7 +117,8 @@ const allCourses = {
         "PED421", "PED431", "PED433", "ECE410", "ECE421",
         "EDU290", "PCR211", "PCR261", "PCR271", "POL221",
         "ENG411", "ENG415", "ENG421", "ENG423", "ENG426",
-        "ENG491", "ENG355", "ENG372"
+        "ENG491", "ENG355", "ENG372", "EDU111", "PED121",
+        "ECE113"
     ],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
