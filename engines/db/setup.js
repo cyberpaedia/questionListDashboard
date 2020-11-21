@@ -125,7 +125,11 @@ const allCourses = {
         "ENT401", "ENT411", "ENT413", "EDU726", "PCR111",
         "CIT415", "MKT730", "ESM106", "MTH103", "PAD784",
         "PAD756", "PAD742", "PAD724", "PAD712", "PAD710",
-        "BUS714", "BUS727", "CIT705", "PAD771", "PUL743"
+        "BUS714", "BUS727", "CIT705", "PAD771", "PUL743",
+        "CSS381", "CSS361", "CSS351", "CSS341", "CIT701",
+        "CIT753", "CSS745", "CSS747", "CSS753", "CSS755",
+        "CSS757", "JLS813", "JLS814", "JLS815", "JLS823",
+        "JLS825", "JLS845"
     ],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
