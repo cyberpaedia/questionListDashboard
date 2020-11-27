@@ -57,7 +57,7 @@ const forceCloseSwal = () => {
 
 const tmaServiceElement = (info, url) => {
     const element = `<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-    <a href="${url}">
+    <a href="${(url.includes('past_question')) ? 'https://iammastercraft.github.io/questionList/examPrep/start.html' : url}">
         <div class="card card-statistic-1">
         <div class="card-icon bg-${pickRandomColor()}">
             <i class="${randomQuestionIcon()}"></i>
@@ -80,7 +80,7 @@ const tmaServiceElement = (info, url) => {
 const tmaCourseElement = (info, url) => {
     const element = `<tr><td>
     <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-        <a href="${(url.includes('past_question')) ? 'https://iammastercraft.github.io/questionList/examPrep/start.html' : url}">
+        <a href="${url}">
             <div class="card card-statistic-1">
             <div class="card-icon bg-${pickRandomColor()}">
                 <i class="${randomQuestionIcon()}"></i>
