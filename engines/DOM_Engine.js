@@ -74,13 +74,13 @@ const tmaServiceElement = (info, url) => {
     </a>
   </div>`;
 
-  return element;
+    return element;
 }
 
 const tmaCourseElement = (info, url) => {
     const element = `<tr><td>
     <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-        <a href="${url}">
+        <a href="${(url.includes('past_question')) ? 'https://iammastercraft.github.io/questionList/examPrep/start.html' : url}">
             <div class="card card-statistic-1">
             <div class="card-icon bg-${pickRandomColor()}">
                 <i class="${randomQuestionIcon()}"></i>
@@ -98,7 +98,7 @@ const tmaCourseElement = (info, url) => {
     </div>
   </td></tr>`;
 
-  return element;
+    return element;
 }
 
 const tmaQuestionElement = (info) => {
@@ -115,7 +115,7 @@ const tmaQuestionElement = (info) => {
         </div>
   </div>`;
 
-  return element;
+    return element;
 }
 
 const tmaLinksToDom = () => {
@@ -129,7 +129,7 @@ const tmaLinksToDom = () => {
     });
 }
 
-const courseCodeToDom = async () => {
+const courseCodeToDom = async() => {
     getListedCourses().then((courseCodes) => {
         courseCodes.map((course) => {
             $("#course-body").append(tmaCourseElement(course, `#${getRoute()}/${course}`));
@@ -144,9 +144,9 @@ const questionsToDom = () => {
     getTmaQuestions().then((questions) => {
         questions.map((question, index) => {
             let element = question
-            .replace(/ \[op/g, "")
-            .replace(/op\] /g, "")
-            .replace(/\n/g, "<br>");
+                .replace(/ \[op/g, "")
+                .replace(/op\] /g, "")
+                .replace(/\n/g, "<br>");
             element = element.split(" @@@ ");
             $("#parent").append(tmaQuestionElement(`${index + 1}). ${element[0]} <br> ${element[1]} <br><b> Correct Answer: <u>${element[2]}</u> </b>`));
         });
