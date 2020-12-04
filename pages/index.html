@@ -43,7 +43,7 @@
     🤑 Only premium support available 🚫<br />
   </h3>
   <div class="login-form">
-    <form>
+    <!-- <form> -->
         <h2 class="text-center">Log in</h2>       
         <!-- <div class="form-group">
             <input type="text" class="form-control" placeholder="Username" >
@@ -58,14 +58,16 @@
             <label class="float-left form-check-label"><input type="checkbox"> Remember me</label>
             <a href="#" class="float-right">Forgot Password?</a>
         </div>         -->
-    </form>
+    <!-- </form> -->
     <!-- <p class="text-center"><a href="#">Create an Account</a></p> -->
 </div>
 <script>
   const grantAccess = () => {
-    const key = document.getElementById("password").value.toUpperCase();
-    if (key == "KPK041" || key == "TMA021") {
+    const key = document.getElementById("password").value;
+    if (key === "KPK041" || key === "TMA021") {
       window.location.replace("./index_.html");
+    } else {
+      alert("E no deyyyyyyyy.....");
     }
   }
 </script>
