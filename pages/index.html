@@ -63,8 +63,8 @@
 </div>
 <script>
   const grantAccess = () => {
-    const key = $(".password").val();
-    if (key === "KPK041" || key === "TMA021") {
+    const key = $(".password").val().toUpperCase();
+    if (key == "KPK041" || key == "TMA021") {
       window.location.replace("./index_.html");
     }
   }
