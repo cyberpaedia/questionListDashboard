@@ -49,7 +49,7 @@
             <input type="text" class="form-control" placeholder="Username" >
         </div> -->
         <div class="form-group">
-            <input type="password" class="form-control password" placeholder="Password" required="required">
+            <input type="password" id="password" class="form-control password" placeholder="Password" required="required">
         </div>
         <div class="form-group">
             <button class="btn btn-primary btn-block" onclick="grantAccess()">Log in</button>
@@ -63,7 +63,7 @@
 </div>
 <script>
   const grantAccess = () => {
-    const key = $(".password").val().toUpperCase();
+    const key = document.getElementById("password").value.toUpperCase();
     if (key == "KPK041" || key == "TMA021") {
       window.location.replace("./index_.html");
     }
