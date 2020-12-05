@@ -138,7 +138,7 @@ const allCourses = {
         "PCR813", "PCR815", "PCR819", "PCR872", "PCR851",
         "EDA832", "EDA833", "EDA834", "ESM211", "ESM291",
         "PCR811", "EDA842", "ENG111", "ENG141", "ENG161",
-        "ENG181"
+        "ENG181", "ECO247", "ECO253"
     ],
     // "tma2_2020_2": ["MTH232", "MTH212", "STT211"],
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
