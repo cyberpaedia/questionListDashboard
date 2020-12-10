@@ -19,6 +19,20 @@ const welcomeUser = () => {
     return message[randomNumber(message.length)];
 }
 
+const a404 = () => {
+    const message = [
+        "E no deyyyyyy",
+        "Wetin you wan make I do like this?",
+        "Omooooooo!!!!! x10000",
+        "No be like this e suppose be buuuuttttt",
+        "You don enter wrong key",
+        "No entrance, no get part 2",
+        "Wahala be like what again?",
+        "Maka why???"
+    ];
+    return message[randomNumber(message.length)];
+}
+
 const randomQuestionIcon = () => {
     const iconSet = [
         "fas fa-book",

@@ -121,7 +121,7 @@ const tmaQuestionElement = (info) => {
 const loginElement = () => {
     const element = `
     <div class="login-form">
-        <h2 class="text-center">Log in</h2>
+        <h2 class="text-center">In case you are wondering how to get a passcode? send a message to 08097691684 on WhatsApp</h2>
         <div class="form-group">
             <input type="text" id="passcode" class="form-control password" placeholder="Enter Passcode" required="required">
         </div>

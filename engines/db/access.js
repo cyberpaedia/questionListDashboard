@@ -4,7 +4,7 @@ const grantAccess = () => {
     if (registeredKeys.includes(key)) {
         window.location.replace(`./#${getRoute().replace(/\/login/g, '')}/${key}`);
     } else {
-        alert("E no deyyyyyyyy.....");
+        alert(a404());
     }
 }
 
