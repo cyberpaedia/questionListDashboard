@@ -3,11 +3,19 @@ const getRoute = () => {
 }
 
 /**
+ * login routes
+ */
+
+const loginRoutes = () => {
+    return ((getRoute()) && getRoute().includes("login")) ? true : false;
+}
+
+/**
  * tma routes
  */
 
 const tmaRoutes = () => {
-    return ((getRoute()) && getRoute().includes("tma")) ? true : false;
+    return ((getRoute()) && getRoute().includes("tma") && !getRoute().includes("login")) ? true : false;
 }
 
 /**

@@ -106,7 +106,7 @@ const tmaQuestionElement = (info) => {
     <div class="card card-statistic-1">
         <div class="card-wrap">
             <div class="card-header">
-                <h4></h4>
+                <h4>${getRoute().split("/")[2]}</h4>
             </div>
             <div class="card-body">
                 <div>${info}</div>
@@ -118,12 +118,32 @@ const tmaQuestionElement = (info) => {
     return element;
 }
 
+const loginElement = () => {
+    const element = `
+    <div class="login-form">
+        <h2 class="text-center">Log in</h2>
+        <div class="form-group">
+            <input type="text" id="passcode" class="form-control password" placeholder="Enter Passcode" required="required">
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary btn-block" onclick="grantAccess()">Log in</button>
+        </div>
+    </div>
+    `;
+    return element;
+}
+
+const loginToDom = () => {
+    $(".table-responsive").hide();
+    $("#parent").append(loginElement);
+}
+
 const tmaLinksToDom = () => {
     $(".table-responsive").hide();
     getTmaLinks().then((tma) => {
         tma.map((session) => {
             const info = session.replace(/_/g, " ").toUpperCase();
-            $("#parent").append(tmaServiceElement(info, `#questions/${session}`));
+            $("#parent").append(tmaServiceElement(`${info}`, `#questions/${session}/login`));
         });
         forceCloseSwal();
     });
