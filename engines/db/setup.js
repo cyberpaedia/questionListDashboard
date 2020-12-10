@@ -34,6 +34,10 @@ const allCourses = {
             "Mth213", "Mth282", "Cit208", "Cit212", "Cit246",
             "Cit292", "Stt102", "Stt211",
         ],
+        "GDN001": [
+            "Bio102", "bio192",
+            "chm102", "chm192", "cit102", "cit104", "mth102", "phy102", "phy192",
+        ],
     }
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
