@@ -38,6 +38,9 @@ const allCourses = {
             "Bio102", "bio192",
             "chm102", "chm192", "cit102", "cit104", "mth102", "phy102", "phy192",
         ],
+        "PEJU001": [
+            "BIO203", "Chm202", "Esm204", "Esm206", "ESM212", "ESM221",
+        ]
     }
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
