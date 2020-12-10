@@ -35,12 +35,18 @@ const allCourses = {
             "Cit292", "Stt102", "Stt211",
         ],
         "GDN001": [
-            "Bio102", "bio192",
-            "chm102", "chm192", "cit102", "cit104", "mth102", "phy102", "phy192",
+            "Bio102", "bio192", "chm102", "chm192", "cit102",
+            "cit104", "mth102", "phy102", "phy192", "Stt102",
         ],
         "PEJU001": [
-            "BIO203", "Chm202", "Esm204", "Esm206", "ESM212", "ESM221",
-        ]
+            "BIO203", "Chm202", "Esm204", "Esm206", "ESM212",
+            "ESM221", "Esm222", "ESM234", "Esm236", "ESM238",
+        ],
+        "EST001": [
+            "EDU314", "PED322",
+            "ECE413", "EDU332", "PED234", "PED271",
+        ],
+
     }
     // "tma3_2020_2": ["MTH232", "MTH212", "STT211"],
 };
