@@ -21,7 +21,7 @@ const allCourses = {
             "ECE413", "EDU332", "PED234", "PED271", "Edu111",
             "Ece113", "Ece121", "Eng151", "Ped121", "Pol124",
             "Pol126", "CIT342", "CIT427", "CIT425", "CIT474",
-            "DAM461", "CIT478",
+            "DAM461", "CIT478", "MTH103", "MTH212",
         ],
         "AGT001": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -44,7 +44,7 @@ const allCourses = {
             "ECE413", "EDU332", "PED234", "PED271", "Edu111",
             "Ece113", "Ece121", "Eng151", "Ped121", "Pol124",
             "Pol126", "CIT342", "CIT427", "CIT425", "CIT474",
-            "DAM461", "CIT478",
+            "DAM461", "CIT478", "MTH103", "MTH212",
         ],
         JOE001: [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -67,7 +67,7 @@ const allCourses = {
             "ECE413", "EDU332", "PED234", "PED271", "Edu111",
             "Ece113", "Ece121", "Eng151", "Ped121", "Pol124",
             "Pol126", "CIT342", "CIT427", "CIT425", "CIT474",
-            "DAM461", "CIT478",
+            "DAM461", "CIT478", "MTH103", "MTH212",
         ],
         SAM001: [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -90,7 +90,7 @@ const allCourses = {
             "ECE413", "EDU332", "PED234", "PED271", "Edu111",
             "Ece113", "Ece121", "Eng151", "Ped121", "Pol124",
             "Pol126", "CIT342", "CIT427", "CIT425", "CIT474",
-            "DAM461", "CIT478",
+            "DAM461", "CIT478", "MTH103", "MTH212",
         ],
 
 
@@ -113,7 +113,11 @@ const allCourses = {
         ],
         "UNK001": [
             "CIT342", "CIT427", "CIT425", "CIT474", "DAM461",
-            "CIT478",
+            "CIT478", "MTH103",
+        ],
+        "CAL001": [
+            "Bio216", "Chm202", "Chm204", "Chm292", "MTH212",
+            "Phy202", "Esm222",
         ],
 
 
