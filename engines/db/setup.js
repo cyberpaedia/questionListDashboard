@@ -122,7 +122,7 @@ const allCourses = {
         "JAC001": [
             "Bio102", "bio192", "chm102", "chm192", "mth102",
         ],
-        "FAB": [
+        "FAB002": [
             "ACC201", "ACC203", "BFN209", "BUS205", "BUS207",
             "ECO231", "STT205", "BUS105", "CSS111", "CSS121",
             "ECO121", "MTH105",
