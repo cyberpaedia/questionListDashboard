@@ -28,7 +28,8 @@ const a404 = () => {
         "You don enter wrong key",
         "No entrance, no get part 2",
         "Wahala be like what again?",
-        "Maka why???"
+        "Maka why???",
+        "Wahala don dey!",
     ];
     return message[randomNumber(message.length)];
 }
