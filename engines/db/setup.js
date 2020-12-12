@@ -32,6 +32,9 @@ const allCourses = {
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
             "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
             "Css211", "Css241", "Css243", "Css245", "Pcr211",
+            "ECO311", "Mth232", "ECO329", "ECO341", "ECO343",
+            "ECO347", "ECO355", "ECO256", "ENT204", "Bio213",
+            "Esm291",
         ],
         "QUdUMTU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -65,6 +68,9 @@ const allCourses = {
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
             "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
             "Css211", "Css241", "Css243", "Css245", "Pcr211",
+            "ECO311", "Mth232", "ECO329", "ECO341", "ECO343",
+            "ECO347", "ECO355", "ECO256", "ENT204", "Bio213",
+            "Esm291",
         ],
         "Sk9FMzU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -98,6 +104,9 @@ const allCourses = {
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
             "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
             "Css211", "Css241", "Css243", "Css245", "Pcr211",
+            "ECO311", "Mth232", "ECO329", "ECO341", "ECO343",
+            "ECO347", "ECO355", "ECO256", "ENT204", "Bio213",
+            "Esm291",
         ],
         "U0FNNzMx": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -131,6 +140,9 @@ const allCourses = {
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
             "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
             "Css211", "Css241", "Css243", "Css245", "Pcr211",
+            "ECO311", "Mth232", "ECO329", "ECO341", "ECO343",
+            "ECO347", "ECO355", "ECO256", "ENT204", "Bio213",
+            "Esm291",
         ],
         "QUdUNTI3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -164,6 +176,9 @@ const allCourses = {
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
             "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
             "Css211", "Css241", "Css243", "Css245", "Pcr211",
+            "ECO311", "Mth232", "ECO329", "ECO341", "ECO343",
+            "ECO347", "ECO355", "ECO256", "ENT204", "Bio213",
+            "Esm291",
         ],
 
 
@@ -221,6 +236,18 @@ const allCourses = {
         ],
         "Sk9OMTA1": [
             "Css211", "Css241", "Css243", "Css245", "Pcr211",
+        ],
+        "REFCNTMx": [
+            "ECO311", "ECO329", "ECO341", "ECO343", "ECO347",
+            "ECO355", "ECO256", "ENT204",
+        ],
+        "Um9TZQ==": [
+            "Chm202", "Chm204", "Chm292", "MTH212", "Phy202",
+            "Phy204", "Bio216", "Esm222",
+        ],
+        "Q0FQMDM4": [
+            "ESM231", "Esm211", "CHM205", "CHM203", "CHM201",
+            "Bio217", "Bio215", "BIO203", "Bio213", "Esm291",
         ],
 
 
