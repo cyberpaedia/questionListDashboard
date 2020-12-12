@@ -21,7 +21,7 @@ const allCourses = {
             "ECE413", "EDU332", "PED234", "PED271", "Edu111",
             "Ece113", "Ece121", "Eng151", "Ped121", "Pol124",
             "Pol126", "CIT342", "CIT427", "CIT425", "CIT474",
-            "DAM461", "CIT478", "MTH103", "MTH212", "ACC201",
+            "DAM461", "CIT478", "MTH103", "MTH212", "201",
             "ACC203", "BFN209", "BUS205", "BUS207", "ECO231",
             "STT205", "BUS105", "CSS111", "CSS121", "ECO121",
             "MTH105", "Cll307", "Crd305", "Pad301", "Pad305",
@@ -30,7 +30,8 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211", "Pcr112",
+            "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
+            "Css211", "Css241", "Css243", "Css245", "Pcr211",
         ],
         "QUdUMTU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -62,7 +63,8 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211", "Pcr112",
+            "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
+            "Css211", "Css241", "Css243", "Css245", "Pcr211",
         ],
         "Sk9FMzU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -94,7 +96,8 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211", "Pcr112",
+            "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
+            "Css211", "Css241", "Css243", "Css245", "Pcr211",
         ],
         "U0FNNzMx": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -126,7 +129,8 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211", "Pcr112",
+            "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
+            "Css211", "Css241", "Css243", "Css245", "Pcr211",
         ],
         "QUdUNTI3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -158,7 +162,8 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211", "Pcr112",
+            "CHM201", "Mth211", "Pcr112", "ent101", "Acc101",
+            "Css211", "Css241", "Css243", "Css245", "Pcr211",
         ],
 
 
@@ -209,8 +214,14 @@ const allCourses = {
             "Cit292", "Mth211",
         ],
         "REFVMzAy": [
-            "Cit102", "Pol126", "Css134", "Pcr112",
-        ]
+            "Cit102", "Pol124", "Pol126", "Css134", "Pcr112",
+        ],
+        "RkFOMjI5": [
+            "Mth282", "Mth232", "Cit246",
+        ],
+        "Sk9OMTA1": [
+            "Css211", "Css241", "Css243", "Css245", "Pcr211",
+        ],
 
 
     }
