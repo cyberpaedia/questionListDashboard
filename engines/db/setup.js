@@ -30,7 +30,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211",
+            "CHM201", "Mth211", "Pcr112",
         ],
         "QUdUMTU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -62,7 +62,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211",
+            "CHM201", "Mth211", "Pcr112",
         ],
         "Sk9FMzU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -94,7 +94,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211",
+            "CHM201", "Mth211", "Pcr112",
         ],
         "U0FNNzMx": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -126,7 +126,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211",
+            "CHM201", "Mth211", "Pcr112",
         ],
         "QUdUNTI3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -158,7 +158,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814",
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203",
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411",
-            "CHM201", "Mth211",
+            "CHM201", "Mth211", "Pcr112",
         ],
 
 
@@ -208,6 +208,9 @@ const allCourses = {
             "phy102", "Mth282", "Cit208", "Cit212", "Cit246",
             "Cit292", "Mth211",
         ],
+        "REFVMzAy": [
+            "Cit102", "Pol126", "Css134", "Pcr112",
+        ]
 
 
     }
