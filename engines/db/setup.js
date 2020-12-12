@@ -115,34 +115,34 @@ const allCourses = {
 
 
 
-        "Brief": [
+        "QnJpZWY=": [
             "Mth213", "Mth282", "Cit208", "Cit212", "Cit246",
             "Cit292", "Stt102", "Stt211",
         ],
-        "GDN001": [
+        "R0ROMDAx": [
             "Bio102", "bio192", "chm102", "chm192", "cit102",
             "cit104", "mth102", "phy102", "phy192", "Stt102",
         ],
-        "PEJU001": [
+        "UEVKVTAwMQ==": [
             "BIO203", "Chm202", "Esm204", "Esm206", "ESM212",
             "ESM221", "Esm222", "ESM234", "Esm236", "ESM238",
         ],
-        "EST001": [
+        "RVNUMDAx": [
             "EDU314", "PED322",
             "ECE413", "EDU332", "PED234", "PED271",
         ],
-        "UNK001": [
+        "VU5LMDAx": [
             "CIT342", "CIT427", "CIT425", "CIT474", "DAM461",
             "CIT478", "MTH103",
         ],
-        "CAL001": [
+        "Q0FMMDAx": [
             "Bio216", "Chm202", "Chm204", "Chm292", "MTH212",
             "Phy202", "Esm222",
         ],
-        "JAC001": [
+        "SkFDMDAx": [
             "Bio102", "bio192", "chm102", "chm192", "mth102",
         ],
-        "FAB002": [
+        "RkFCMDAy": [
             "ACC201", "ACC203", "BFN209", "BUS205", "BUS207",
             "ECO231", "STT205", "BUS105", "CSS111", "CSS121",
             "ECO121", "MTH105",
