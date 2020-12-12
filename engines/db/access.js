@@ -1,8 +1,8 @@
 const grantAccess = () => {
     const registeredKeys = Object.keys(allCourses[getRoute().replace(/questions\//g, '').replace(/\/login/g, '')]);
     const key = document.getElementById("passcode").value;
-    if (registeredKeys.includes(key)) {
-        window.location.replace(`./#${getRoute().replace(/\/login/g, '')}/${key}`);
+    if (registeredKeys.includes(btoa(key))) {
+        window.location.replace(`./#${getRoute().replace(/\/login/g, '')}/${btoa(key)}`);
     } else {
         alert(a404());
     }
