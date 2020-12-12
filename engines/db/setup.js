@@ -30,6 +30,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814", 
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203", 
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411", 
+            "CHM201", 
         ],
         "QUdUMTU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -61,6 +62,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814", 
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203", 
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411", 
+            "CHM201", 
         ],
         "Sk9FMzU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -92,6 +94,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814", 
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203", 
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411", 
+            "CHM201", 
         ],
         "U0FNNzMx": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -123,6 +126,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814", 
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203", 
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411", 
+            "CHM201", 
         ],
         "QUdUNTI3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -154,6 +158,7 @@ const allCourses = {
             "Edu724", "Edu726", "Edu723", "Jls813", "Jls814", 
             "Jls815", "Jls823", "Jls825", "Jls845", "CHM203", 
             "CHM205", "CHM291", "ESM231", "CIT445", "CIT411", 
+            "CHM201", 
         ],
 
 
@@ -193,6 +198,11 @@ const allCourses = {
         "SkFNNzY5": [
             "CHM203", "CHM205", "CHM291", "ESM231", "CIT445", 
             "CIT411", "CIT427", "CIT425", 
+        ]
+        "WUlOOTkz": [
+            "Bio215", "BIO203", "Bio217", "CHM203", "CHM205", 
+            "CHM201", "ESM231", "Chm191", "Phy191", "Bio101", 
+            "Bio191",
         ]
 
 
