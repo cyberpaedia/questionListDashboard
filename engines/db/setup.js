@@ -552,15 +552,22 @@ const allCourses = {
             "Cit208", "Cit212", "Cit236", "Cit292", "Mth212",
             "Mth232", "Phy208"
         ],
-        "--": [
-            "CIT411", "Cit412", "CIT427", "CIT445", "Cit461",
-            "Cit104",
+        "RkFWMzky": [
+            "Cit303", "Cit305", "Cit309", "CIT311", "Cit381",
+            "CIT341", "Bio102",
         ],
         "MTdDTEk=": [
             "Css211", "Css212", "Css242", "Css244", "Css246",
             "PCR362", "CSS352", "CSS356", "CSS342", "CSS341",
             "Css351", "Css381", "PCR373", "CSS343", "CSS331",
             "CSS361", "Mth282",
+        ],
+        "R09TMTIw": [
+            "Cit211", "Cit215", "Cit237", "Mth211", "Mth213",
+            "Mth281", "Chm103",
+        ],
+        "TkVFNTAw": [
+            "Stt206", "ENT202", "Cit202", "Acc210",
         ],
 
 
