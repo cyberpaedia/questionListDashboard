@@ -37,7 +37,9 @@ const allCourses = {
             "Esm291", "Esm343", "Esm405", "Esm407", "Esm431",
             "Mac411", "Mac413", "Mac421", "Mac425", "Mac427",
             "Mac441", "Pol301", "Pol311", "Pol315", "Pol317",
-            "Pol337",
+            "Pol337", "Pol341", "Eng223", "Mac211", "Mac213",
+            "Mac221", "Mac223", "Mac225", "Eng224", "Mac132",
+            "Mac142", "Mac134", "Mac116", "Eng122", "Css133",
         ],
         "QUdUMTU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -76,7 +78,9 @@ const allCourses = {
             "Esm291", "Esm343", "Esm405", "Esm407", "Esm431",
             "Mac411", "Mac413", "Mac421", "Mac425", "Mac427",
             "Mac441", "Pol301", "Pol311", "Pol315", "Pol317",
-            "Pol337",
+            "Pol337", "Pol341", "Eng223", "Mac211", "Mac213",
+            "Mac221", "Mac223", "Mac225", "Eng224", "Mac132",
+            "Mac142", "Mac134", "Mac116", "Eng122", "Css133",
         ],
         "Sk9FMzU3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -115,7 +119,9 @@ const allCourses = {
             "Esm291", "Esm343", "Esm405", "Esm407", "Esm431",
             "Mac411", "Mac413", "Mac421", "Mac425", "Mac427",
             "Mac441", "Pol301", "Pol311", "Pol315", "Pol317",
-            "Pol337",
+            "Pol337", "Pol341", "Eng223", "Mac211", "Mac213",
+            "Mac221", "Mac223", "Mac225", "Eng224", "Mac132",
+            "Mac142", "Mac134", "Mac116", "Eng122", "Css133",
         ],
         "U0FNNzMx": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -154,7 +160,9 @@ const allCourses = {
             "Esm291", "Esm343", "Esm405", "Esm407", "Esm431",
             "Mac411", "Mac413", "Mac421", "Mac425", "Mac427",
             "Mac441", "Pol301", "Pol311", "Pol315", "Pol317",
-            "Pol337",
+            "Pol337", "Pol341", "Eng223", "Mac211", "Mac213",
+            "Mac221", "Mac223", "Mac225", "Eng224", "Mac132",
+            "Mac142", "Mac134", "Mac116", "Eng122", "Css133",
         ],
         "QUdUNTI3": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -193,7 +201,9 @@ const allCourses = {
             "Esm291", "Esm343", "Esm405", "Esm407", "Esm431",
             "Mac411", "Mac413", "Mac421", "Mac425", "Mac427",
             "Mac441", "Pol301", "Pol311", "Pol315", "Pol317",
-            "Pol337",
+            "Pol337", "Pol341", "Eng223", "Mac211", "Mac213",
+            "Mac221", "Mac223", "Mac225", "Eng224", "Mac132",
+            "Mac142", "Mac134", "Mac116", "Eng122", "Css133",
         ],
         "QUdUMTg0": [
             "Chm202", "Chm204", "Chm292", "Phy202", "Phy204",
@@ -232,7 +242,9 @@ const allCourses = {
             "Esm291", "Esm343", "Esm405", "Esm407", "Esm431",
             "Mac411", "Mac413", "Mac421", "Mac425", "Mac427",
             "Mac441", "Pol301", "Pol311", "Pol315", "Pol317",
-            "Pol337",
+            "Pol337", "Pol341", "Eng223", "Mac211", "Mac213",
+            "Mac221", "Mac223", "Mac225", "Eng224", "Mac132",
+            "Mac142", "Mac134", "Mac116", "Eng122", "Css133",
         ],
 
 
@@ -308,6 +320,7 @@ const allCourses = {
         ],
         "UEFUMTI4": [
             "Pol301", "Pol311", "Pol315", "Pol317", "Pol337",
+            "Pol341",
         ],
         "VEFQODcx": [
             "Mth282", "Cit208", "Cit212", "Cit246", "Cit292",
