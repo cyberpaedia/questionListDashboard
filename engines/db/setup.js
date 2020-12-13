@@ -556,6 +556,12 @@ const allCourses = {
             "CIT411", "Cit412", "CIT427", "CIT445", "Cit461",
             "Cit104",
         ],
+        "MTdDTEk=": [
+            "Css211", "Css212", "Css242", "Css244", "Css246",
+            "PCR362", "CSS352", "CSS356", "CSS342", "CSS341",
+            "Css351", "Css381", "PCR373", "CSS343", "CSS331",
+            "CSS361", "Mth282",
+        ],
 
 
     }
