@@ -397,7 +397,7 @@ const allCourses = {
 
         "QnJpZWY=": [
             "Mth213", "Mth282", "Cit208", "Cit212", "Cit246",
-            "Cit292", "Stt102", "Stt211",
+            "Cit292", "Stt102", "Stt211", "Mth232",
         ],
         "R0ROMDAx": [
             "Bio102", "bio192", "chm102", "chm192", "cit102",
@@ -474,7 +474,11 @@ const allCourses = {
         "R0FCMDky": [
             "Cit208", "Cit212", "Cit236", "Cit292", "Mth212",
             "Mth232", "Phy208"
-        ]
+        ],
+        "--": [
+            "CIT411", "Cit412", "CIT427", "CIT445", "Cit461",
+            "Cit104",
+        ],
 
 
     }
